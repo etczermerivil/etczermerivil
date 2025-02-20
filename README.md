@@ -1,4 +1,4 @@
-# 👋🏾 Hey I'm Etczer
+# 👋🏾 Hey, I'm Etczer!
 
 ## 💻 Full Stack Software Engineer | UI/UX Designer | QA Engineer  
 
