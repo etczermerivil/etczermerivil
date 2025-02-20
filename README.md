@@ -1,4 +1,4 @@
-# 👋🏾 Hello World, I'm Etczer Merivil  
+# 👋🏾 Hey I'm Etczer
 
 ## 💻 Full Stack Software Engineer | UI/UX Designer | QA Engineer  
 
