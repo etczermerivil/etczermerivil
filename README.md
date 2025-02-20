@@ -12,24 +12,36 @@
 
 ## 🛠 Featured Projects  
 
-### **1️⃣ Terra Azul Tech - Water Treatment Website**  
-[![Terra Azul Tech](https://raw.githubusercontent.com/yourusername/reponame/main/images/terra-azul-tech.jpg)](https://www.terraazultech.com/)  
-A **water treatment company** website designed to showcase services, attract investors, and improve user engagement.  
+### **Terra Azul Tech - Water Treatment Website**  
+<a href="https://www.terraazultech.com/">
+  <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Terra%201.png?raw=true" width="500"/>
+  <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Terra%204.png?raw=true" width="500"/>
+</a>  
+A **water treatment company** website designed to showcase services and attract investors.  
 🔗 **Live Site:** [terraazultech.com](https://www.terraazultech.com/)  
 🔗 **GitHub Repo:** [GitHub Link](https://github.com/your-repo)  
 
 ---
 
-### **2️⃣ Word Palace - Language Learning Game**  
-[![Word Palace](https://raw.githubusercontent.com/yourusername/reponame/main/images/word-palace.jpg)](https://language-game-2.onrender.com/)  
-A **language learning game** using interactive cards to help users practice and learn new languages in a fun way.  
+### **Word Palace - Language Learning Game**  
+<a href="https://language-game-2.onrender.com/">
+  <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Word%201.png?raw=true" width="500"/>
+  <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Word%202.png?raw=true" width="500"/>
+  <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Word%203.png?raw=true" width="500"/>
+</a>  
+A **language learning game** using interactive cards to help users practice new languages in a fun way.  
 🔗 **Live Site:** [language-game-2.onrender.com](https://language-game-2.onrender.com/)  
 🔗 **GitHub Repo:** [GitHub Link](https://github.com/your-repo)  
 
 ---
 
-### **3️⃣ Stay Scape - Airbnb Clone**  
-[![Stay Scape](https://raw.githubusercontent.com/yourusername/reponame/main/images/stay-scape.jpg)](https://stay-scape.onrender.com/)  
+### **Stay Scape - Airbnb Clone**  
+<a href="https://stay-scape.onrender.com/">
+  <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Stay%201.png?raw=true" width="500"/>
+  <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Stay%202.png?raw=true" width="500"/>
+  <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Stay%203.png?raw=true" width="500"/>
+  <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Stay%204.png?raw=true" width="500"/>
+</a>  
 A **vacation rental platform** mimicking Airbnb, where users can browse, book, and list properties.  
 🔗 **Live Site:** [stay-scape.onrender.com](https://stay-scape.onrender.com/)  
 🔗 **GitHub Repo:** [GitHub Link](https://github.com/your-repo)  
