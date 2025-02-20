@@ -15,7 +15,7 @@
 ### **Terra Azul Tech - Water Treatment Website**  
 <a href="https://www.terraazultech.com/">
   <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Terra%201.png?raw=true" width="500"/>
-  <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Terra%204.png?raw=true" width="500"/>
+  <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Terra%202.png" width="500"/>
 </a>  
 A **water treatment company** website designed to showcase services and attract investors.  
 🔗 **Live Site:** [terraazultech.com](https://www.terraazultech.com/)  
