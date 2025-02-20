@@ -2,8 +2,7 @@
 
 ## 💻 Full Stack Software Engineer | UI/UX Designer | QA Engineer  
 
-🔭 Currently working on: **Web Development & Software Testing**  
-🌱 Learning: **React Native, Azure, and Advanced Automation Testing**  
+🔭 Currently working on: **Web Development & Software Testing**   
 👯 Looking to collaborate on: **Open Source & Tech Projects**  
 💬 Ask me about: **Software Development, UI/UX, Testing, and APIs**  
 😄 Pronouns: **He/Him**  
@@ -11,28 +10,28 @@
 
 ---
 
-## 🌟 Works I'm Proud Of 🌟  
+## 🛠 Featured Projects  
 
-### **1️⃣ Terra Azul Tech - Water Treatment Website**
-[![Terra Azul Website](https://your-image-link-here.jpg)](https://terra-azul-tech.com)  
-A redesigned website for a **water treatment company** to enhance investor engagement and service visibility.  
-🔗 **Live Site:** [terra-azul-tech.com](https://terra-azul-tech.com)  
+### **1️⃣ Terra Azul Tech - Water Treatment Website**  
+[![Terra Azul Tech](https://raw.githubusercontent.com/yourusername/reponame/main/images/terra-azul-tech.jpg)](https://www.terraazultech.com/)  
+A **water treatment company** website designed to showcase services, attract investors, and improve user engagement.  
+🔗 **Live Site:** [terraazultech.com](https://www.terraazultech.com/)  
 🔗 **GitHub Repo:** [GitHub Link](https://github.com/your-repo)  
 
 ---
 
-### **2️⃣ Sidewalk - Data Analytics Dashboard**
-[![Sidewalk Dashboard](https://your-image-link-here.jpg)](https://sidewalk-analytics.com)  
-A **data analysis dashboard** for tracking retail beverage and beer sales, improving usability and data clarity.  
-🔗 **Live Site:** [sidewalk-analytics.com](https://sidewalk-analytics.com)  
+### **2️⃣ Word Palace - Language Learning Game**  
+[![Word Palace](https://raw.githubusercontent.com/yourusername/reponame/main/images/word-palace.jpg)](https://language-game-2.onrender.com/)  
+A **language learning game** using interactive cards to help users practice and learn new languages in a fun way.  
+🔗 **Live Site:** [language-game-2.onrender.com](https://language-game-2.onrender.com/)  
 🔗 **GitHub Repo:** [GitHub Link](https://github.com/your-repo)  
 
 ---
 
-### **3️⃣ Personal Portfolio**
-[![Portfolio Website](https://your-image-link-here.jpg)](https://etczer-merivil-design.webflow.io/)  
-A **personal portfolio** showcasing my UI/UX design and development projects.  
-🔗 **Live Site:** [etczer-merivil-design.webflow.io](https://etczer-merivil-design.webflow.io/)  
+### **3️⃣ Stay Scape - Airbnb Clone**  
+[![Stay Scape](https://raw.githubusercontent.com/yourusername/reponame/main/images/stay-scape.jpg)](https://stay-scape.onrender.com/)  
+A **vacation rental platform** mimicking Airbnb, where users can browse, book, and list properties.  
+🔗 **Live Site:** [stay-scape.onrender.com](https://stay-scape.onrender.com/)  
 🔗 **GitHub Repo:** [GitHub Link](https://github.com/your-repo)  
 
 ---
