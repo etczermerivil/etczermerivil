@@ -3,9 +3,13 @@
 ## 💻 Full Stack Software Engineer | UI/UX Designer | QA Engineer  
 
 🔭 Currently working on: **Web Development & Software Testing**   
+
 👯 Looking to collaborate on: **Open Source & Tech Projects**  
+
 💬 Ask me about: **Software Development, UI/UX, Testing, and APIs**  
+
 😄 Pronouns: **He/Him**  
+
 ⚡ Fun fact: **I enjoy designing intuitive user experiences and testing software to ensure top performance.**  
 
 ---
