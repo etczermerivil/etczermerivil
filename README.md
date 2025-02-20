@@ -92,7 +92,6 @@ GitHub Repo: https://github.com/etczermerivil/Stay-Scape
 
 ## 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/etczermerivil/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=webflow&logoColor=white)](https://etczer-merivil-design.webflow.io/)  
 
 ---
 
