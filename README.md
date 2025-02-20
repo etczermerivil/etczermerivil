@@ -22,8 +22,6 @@
 <!--   <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Terra%202.png?raw=true" width="500"/> -->
 </a>  
 <br>  
-A water treatment company website designed to showcase services and attract investors.  
-<br>  
 Live Site: https://www.terraazultech.com/
 <br>  
 GitHub Repo: https://github.com/etczermerivil/Terra-Azul-
@@ -35,9 +33,7 @@ GitHub Repo: https://github.com/etczermerivil/Terra-Azul-
 <!--   <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Word%201.png?raw=true" width="500"/> -->
   <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Word%202.png?raw=true" width="500"/>
 <!--   <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Word%203.png?raw=true" width="500"/> -->
-</a>  
-<br>  
-A language learning game using interactive cards to help users practice new languages in a fun way. 
+</a>   
 <br>  
 Live Site: https://language-game-2.onrender.com/
 <br>  
@@ -52,8 +48,6 @@ GitHub Repo: https://github.com/etczermerivil/Language-Game-2
   <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Stay%203.png?raw=true" width="500"/>
 <!--   <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Stay%204.png?raw=true" width="500"/> -->
 </a>  
-<br>  
-A vacation rental platform mimicking Airbnb, where users can browse, book, and list properties.
 <br>  
 Live Site: https://stay-scape.onrender.com/
 <br>  
