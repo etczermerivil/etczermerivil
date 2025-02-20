@@ -15,7 +15,6 @@
 ### **Terra Azul Tech - Water Treatment Website**  
 <a href="https://www.terraazultech.com/">
   <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Terra%201.png?raw=true" width="500"/>  
-  <br>
   <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Terra%202.png?raw=true" width="500"/>
 </a>  
 <br>  
@@ -28,9 +27,7 @@ A **water treatment company** website designed to showcase services and attract 
 ### **Word Palace - Language Learning Game**  
 <a href="https://language-game-2.onrender.com/">
   <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Word%201.png?raw=true" width="500"/>  
-  <br>
   <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Word%202.png?raw=true" width="500"/>  
-  <br>
   <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Word%203.png?raw=true" width="500"/>
 </a>  
 <br>  
@@ -43,11 +40,8 @@ A **language learning game** using interactive cards to help users practice new 
 ### **Stay Scape - Airbnb Clone**  
 <a href="https://stay-scape.onrender.com/">
   <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Stay%201.png?raw=true" width="500"/>  
-  <br>
   <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Stay%202.png?raw=true" width="500"/>  
-  <br>
   <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Stay%203.png?raw=true" width="500"/>  
-  <br>
   <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Stay%204.png?raw=true" width="500"/>
 </a>  
 <br>  
