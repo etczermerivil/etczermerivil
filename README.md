@@ -24,8 +24,8 @@
 <br>  
 A water treatment company website designed to showcase services and attract investors.  
 <br>  
-🔗 Live Site: [terraazultech.com](https://www.terraazultech.com/)  
-🔗 GitHub Repo: [GitHub Link](https://github.com/your-repo)  
+Live Site: [terraazultech.com](https://www.terraazultech.com/)  
+GitHub Repo: [GitHub Link](https://github.com/your-repo)  
 
 ---
 
@@ -38,8 +38,8 @@ A water treatment company website designed to showcase services and attract inve
 <br>  
 A language learning game using interactive cards to help users practice new languages in a fun way. 
 <br>  
-🔗 Live Site: [language-game-2.onrender.com](https://language-game-2.onrender.com/)  
-🔗 GitHub Repo: [GitHub Link](https://github.com/your-repo)  
+Live Site: [language-game-2.onrender.com](https://language-game-2.onrender.com/)  
+GitHub Repo: [GitHub Link](https://github.com/your-repo)  
 
 ---
 
@@ -53,8 +53,8 @@ A language learning game using interactive cards to help users practice new lang
 <br>  
 A vacation rental platform mimicking Airbnb, where users can browse, book, and list properties.
 <br>  
-🔗 Live Site: [stay-scape.onrender.com](https://stay-scape.onrender.com/)  
-🔗 GitHub Repo: [GitHub Link](https://github.com/your-repo)  
+Live Site: [stay-scape.onrender.com](https://stay-scape.onrender.com/)  
+GitHub Repo: [GitHub Link](https://github.com/your-repo)  
 
 ---
 
