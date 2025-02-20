@@ -44,8 +44,8 @@ GitHub Repo: https://github.com/etczermerivil/Language-Game-2
 ### **Stay Scape - Airbnb Clone**  
 <a href="https://stay-scape.onrender.com/">
 <!--   <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Stay%201.png?raw=true" width="500"/> -->
-<!--   <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Stay%202.png?raw=true" width="500"/> -->
-  <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Stay%203.png?raw=true" width="500"/>
+  <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Stay%202.png?raw=true" width="500"/>
+<!--   <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Stay%203.png?raw=true" width="500"/> -->
 <!--   <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Stay%204.png?raw=true" width="500"/> -->
 </a>  
 <br>  
