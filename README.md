@@ -22,7 +22,7 @@
 <!--   <img src="https://github.com/etczermerivil/etczermerivil/blob/main/Terra%202.png?raw=true" width="500"/> -->
 </a>  
 <br>  
-Live Site: https://www.terraazultech.com/
+Live Site: https://terra-azul-tech.onrender.com/
 <br>  
 GitHub Repo: https://github.com/etczermerivil/Terra-Azul-
 
