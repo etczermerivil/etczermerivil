@@ -1,4 +1,6 @@
-# 👋🏾 Hey, I'm Etczer!
+## 👋🏾 Hey, I'm Etczer!
+
+🔗 **Portfolio:** [YourPortfolio.com](https://etczer-merivil-design.webflow.io/)  
 
 ## 💻 Full Stack Software Engineer | UI/UX Designer | QA Engineer  
 
@@ -89,6 +91,7 @@ GitHub Repo: https://github.com/etczermerivil/Stay-Scape
 </p>
 
 ---
+
 
 ## 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/etczermerivil/)  
