@@ -1,6 +1,6 @@
 ## 👋🏾 Hey, I'm Etczer!
 
-🔗 **Portfolio:** [My Portfolio](https://etczer-merivil-design.webflow.io/)  
+🔗 **Portfolio:** [etczermerivil.com](https://etczer-merivil-design.webflow.io/)  
 
 ## 💻 Full Stack Software Engineer | UI/UX Designer | QA Engineer  
 
